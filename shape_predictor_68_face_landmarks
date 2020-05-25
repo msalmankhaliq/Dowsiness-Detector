@@ -1,1 +1,0 @@
-The dlib's face landmark detection is used in this drowsiness detection model to detect the eyes. It can be downloaded from here http://dlib.net/face_landmark_detection.py.html 
