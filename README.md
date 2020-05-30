@@ -44,7 +44,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Working Example
 
-<img src="https://github.com/msalmankhaliq/Dowsiness-Detector/blob/master/Sequence%2002.mp4">
+<img src="https://github.com/msalmankhaliq/Dowsiness-Detector/blob/master/ezgif.com-video-cutter.mp4">
 
 
 ### Execution
