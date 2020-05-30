@@ -29,7 +29,7 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 ### Condition
 
-It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.3, Alert is generated.
+It checks 48 consecutive frames and if the Eye Aspect ratio is less than 0.3, Alert is generated.
 
 #### Relationship
 
@@ -44,7 +44,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Working Example
 
-
+<img src="https://github.com/msalmankhaliq/Dowsiness-Detector/blob/master/Sequence%2002.mp4">
 
 
 ### Execution
