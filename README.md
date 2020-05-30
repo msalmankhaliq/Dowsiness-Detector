@@ -44,8 +44,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Working Example
 
-<img src="https://github.com/msalmankhaliq/Dowsiness-Detector/blob/master/ezgif.com-video-cutter.mp4">
-
+[![Watch the video](https://img.youtube.com/vi/9-Yw-bjKwbs/maxresdefault.jpg)](https://youtu.be/9-Yw-bjKwbs)
 
 ### Execution
 To see/run the code, open drowsiness_detector.ipynb`
